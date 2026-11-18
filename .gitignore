@@ -67,3 +67,8 @@ dependencies.lock
 .devcontainer/
 .clangd
 
+# Python CLI
+.venv/
+__pycache__/
+*.py[cod]
+
